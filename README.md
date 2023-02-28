@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working/thinking on a side project to improve my programming skills
-- 🌱 I’m currently learning creating one's own programming language, operating systems, and game development
+- 🌱 I’m currently learning how to create one's own programming language for compilers, taking an operating systems class, and a game development class
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Love soccer and basketball
 
