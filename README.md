@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working/thinking on a side project to improve my programming skills
-- 🌱 I’m currently relaxing for the summer and waiting for my internship with Target to start
+- 🔭 I’m currently thinking about life
+- 🌱 I’m currently in my final year of University (both horrified and exciting)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Love soccer and basketball
 
