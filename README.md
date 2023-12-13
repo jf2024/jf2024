@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently thinking about life
-- 🌱 I’m currently in my final year of University (both horrified and exciting)
+- 🌱 I’m currently in my final year of University
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Love soccer and basketball
 
