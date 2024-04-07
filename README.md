@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently thinking about life
-- 🌱 I’m currently in my final year of University
+- 🔭 I’m currently thinking about all the fun things I will do over the summer (can't wait for the semester to end)
+- 🌱 I’m currently in my final year for undergrad, will go to a Master's Program for Data Science
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Love soccer and basketball
+- ⚡ Fun fact: Love Soccer, Basketball, Anime/Manga, and Reading
 
 <!--
 **jf2024/jf2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
